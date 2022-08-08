@@ -18,7 +18,7 @@ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756935
 4. Data was split into Train (63%), Validation (18%), and Test (19%) sets.
 
 ## Model
-### Binary Model
+### Binary Model:
 Two Classes: Osteosarcoma Positive, consists of viable and necrotic tumors; Osteosarcoma Negative, consists of non-tumors
 
 Used DenseNet121
