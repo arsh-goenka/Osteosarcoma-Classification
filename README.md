@@ -1,5 +1,5 @@
 # Osteosarcoma-Classification
-Try out the web app: https://arsh-goenka-osteosarcoma-classification-web-app-d5we24.streamlitapp.com/
+Try out the web app: https://arsh-goenka-osteosarcoma-classification-web-app-3gwog2.streamlitapp.com/
 
 ## Problem
 Osteosarcoma is a type of bone cancer in which early detection is critical in treatment efforts. Worldwide there is 3.4 million cases each year and it metastasizes incredibly quickly posing issues with treatment and recovery making osteosarcoma deadly. Current diagnoses is done through multiple test including blood tests, X-rays, CTs, histological imaging, and MRIs making diagnoses long and very expensive.
