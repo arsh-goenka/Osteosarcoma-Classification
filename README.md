@@ -1,2 +1,2 @@
 # Osteosarcoma-Classification
-## Check out
+### Try it our yourself through the web app:
