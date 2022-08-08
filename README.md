@@ -17,17 +17,16 @@ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756935
 3. Image size of 1024 X 1024 was too large for running our model because of RAM constraints.
 4. Data was split into Train (63%), Validation (18%), and Test (19%) sets.
 
-## Model
-### Binary Model:
+## Binary Model
 Two Classes: Osteosarcoma Positive, consists of viable and necrotic tumors; Osteosarcoma Negative, consists of non-tumors
 
-Used DenseNet121
+DenseNet121:
 -98.6% Accuracy
 -0.986 AUC
 
-### Multiclass Model:
+## Multiclass Model
 Three Classes: Viable Tumor, tumor can be operated on; Necrotic Tumor, tumor cannot be operated on: Non-Tumor, no tumor
 
-Used InceptionV3
+InceptionV3:
 -92.56% Accuracy
 -0.978 AUC
