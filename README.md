@@ -9,6 +9,7 @@ To use deep learning to quickly and accurately diagnose osteosarcoma from histol
 
 ## Dataset
 https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756935
+
 1,144 images of size 1024 X 1024 with 536 (47%) non-tumor images, 263 (23%) necrotic tumor images, and 345 (30%) viable tumor images.
 
 ## Pre-Processing
