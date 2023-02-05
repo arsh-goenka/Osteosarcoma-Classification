@@ -22,12 +22,12 @@ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756935
 Two Classes: Osteosarcoma Positive, consists of viable and necrotic tumors; Osteosarcoma Negative, consists of non-tumors
 
 DenseNet121:
-98.6% Accuracy
+98.6% Accuracy |
 0.986 AUC
 
 ## Multiclass Model
 Three Classes: Viable Tumor, tumor can be operated on; Necrotic Tumor, tumor cannot be operated on: Non-Tumor, no tumor
 
 InceptionV3:
-92.56% Accuracy
+92.56% Accuracy |
 0.978 AUC
